@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cs-checklist2"
+    }
+  },
+  "defaultProject": "cs-checklist2",
+  "cli": {
+    "analytics": false
+  }
 }
